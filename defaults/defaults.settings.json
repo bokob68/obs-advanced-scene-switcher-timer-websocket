@@ -1,0 +1,20 @@
+{
+  "HOST": "127.0.0.1",
+  "PORT": 5678,
+
+  "SEND_MINUTES": true,
+  "SEND_SECONDS": false,
+
+  "MIN_INTERVAL_MIN": 1,
+  "SEC_INTERVAL_S": 5,
+  "INITIAL_SEND_DELAY_S": 3,
+
+  "LOCK_NAME": "WebSocketServerASS.lock",
+
+  "PING_INTERVAL": 30,
+  "PING_TIMEOUT": 5,
+  "MAX_QUEUE": 64,
+  "CLOSE_TIMEOUT": 5,
+
+  "STATUS_INTERVAL_S": 2
+}
