@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Inno Setup output (if built into installer/)
+installer/*.exe
+
+# Local artifacts
+*.log
+*.lock
+
