@@ -9,7 +9,7 @@ Go to **Releases** and download the latest installer:
 - Or open: [Releases](https://github.com/bokob68/obs-advanced-scene-switcher-timer-websocket/releases)
 
 
-ASS Timer is a small Windows app that sends the current **minute-of-hour** and/or **second-of-minute** to **OBS Advanced Scene Switcher (ASS)** using a **generic WebSocket connection** (not the OBS WebSocket protocol).
+ASS Timer is a small Windows app that sends the current **minute-of-hour** or **second-of-minute** to **OBS Advanced Scene Switcher (ASS)** using a **generic WebSocket connection** (not the OBS WebSocket protocol).
 
 It enables ASS macros to react to where you are within the current hour (e.g., run different macros depending on the current minute, or every 5 seconds).
 
